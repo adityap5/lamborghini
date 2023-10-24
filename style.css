@@ -87,6 +87,7 @@ html,body{
     
 }
 #heroleft #elem{
+    top: -50px;
     height: 9vw;
     position: relative;
     overflow: hidden;
@@ -96,14 +97,14 @@ top: 0;
 }
 #heroleft #elem h1{
     position: absolute;
-    top:10%;
+    top:100%;
     left:0;
-    line-height: .9;
-    font-size: 10vw;
+    line-height:.9;
+    font-size: 12vw;
     color: #fff;
     font-weight: 100;
     font-family: "kajiro";
-    letter-spacing: 2px;
+    letter-spacing: 7px;
 }
 #heroleft button{
     pointer-events: all;
